@@ -28,4 +28,18 @@ export default {
     //
   }),
 };
+
+document.body.addEventListener('touchmove', function (e) { e.preventDefault(); });
 </script>
+
+<style lang="scss">
+html, body {
+  height: 100hv;
+  width: 100hv;
+}
+
+body {
+  overflow: hidden;
+  position: fixed;
+}
+</style>
