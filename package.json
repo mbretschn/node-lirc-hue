@@ -14,7 +14,7 @@
     "express": "^4.15.2",
     "express-http-proxy": "^1.6.2",
     "lirc_node": "0.0.4",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "node-hue-api": "^4.0.7",
     "socket.io": "^2.3.0",
     "vue": "^2.6.11",
